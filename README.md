@@ -18,7 +18,5 @@ with 6 years of experience building scalable cloud applications.
 - Building hands-on learning projects in Python  
 - Improving system design skills through mini-architecture patterns  
 
----
-
-## 📫 Connect with me
+### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/anthony-dhara/)
