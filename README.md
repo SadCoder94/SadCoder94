@@ -20,10 +20,5 @@ with 6 years of experience building scalable cloud applications.
 
 ---
 
-## 📌 Pinned Projects
-*TBD*
-
----
-
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/anthony-dhara/)
