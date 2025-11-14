@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Salil
 
-<!--
-**SadCoder94/SadCoder94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specializing in **C#, Angular, Azure, and SQL Server**  
+with 6 years of experience building scalable cloud applications.
 
-Here are some ideas to get you started:
+### 🚀 What I'm learning
+- Anything to level up
+  
+### 🔧 Tech Stack
+- **Backend:** C#, .NET, WebAPI  
+- **Frontend:** Angular, TypeScript  
+- **Database:** SQL Server  
+- **Cloud:** Azure Functions, App Service, Storage, Key Vault  
+- **Tools:** Git, Postman, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm doing on GitHub
+- Contributing to open-source .NET, Angular, and Azure repositories  
+- Building hands-on learning projects in Python  
+- Improving system design skills through mini-architecture patterns  
+
+---
+
+## 📌 Pinned Projects
+*TBD*
+
+---
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/anthony-dhara/)
