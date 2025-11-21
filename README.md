@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salil
+# 👋 Hi, I'm Anthony
 
 I'm a Software Engineer specializing in **C#, Angular, Azure, and SQL Server**  
 with 6 years of experience building scalable cloud applications.
