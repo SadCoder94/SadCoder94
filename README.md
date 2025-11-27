@@ -15,7 +15,7 @@ with 6 years of experience building scalable cloud applications.
 
 ### 🌱 What I'm doing on GitHub
 - Contributing to open-source .NET, Angular, and Azure repositories  
-- Building hands-on learning projects in Python  
+- Building hands-on learning projects  
 - Improving system design skills through mini-architecture patterns  
 
 ### 📫 Connect with me
